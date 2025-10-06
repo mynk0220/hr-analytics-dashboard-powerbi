@@ -22,7 +22,7 @@ To identify patterns in employee attrition and understand workforce demographics
 - Work-life balance score was a major factor affecting retention.
 
 ## 🖼️ Dashboard Preview
-*(Add screenshot of dashboard here)*
+![hr-analytics-dashboard-powerbi](https://github.com/mynk0220/hr-analytics-dashboard-powerbi/blob/main/Dashboard_HR.png)
 
 ## 📂 Files in Repository
 - `HR_Analytics.pbix` – Power BI Dashboard file  
